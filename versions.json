@@ -1,1 +1,7 @@
-test
+[
+  {
+    "$type": "UpdateChecker.ModVersionData, UpdateChecker",
+    "modName": "Ghetto's Firearms",
+    "modVersion": "1.1"
+  }
+]
