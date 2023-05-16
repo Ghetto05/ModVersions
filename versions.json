@@ -1,22 +1,7 @@
-[
-  {
-    "$type": "UpdateChecker.ModVersionData, UpdateChecker",
-    "modName": "Ghetto's Firearms",
-    "modVersion": "1.2"
-  },
-  {
-    "$type": "UpdateChecker.ModVersionData, UpdateChecker",
-    "modName": "Ghetto's Firearm Framework v2",
-    "modVersion": "1.2"
-  },
-  {
-    "$type": "UpdateChecker.ModVersionData, UpdateChecker",
-    "modName": "Ghetto's John Wick Pack",
-    "modVersion": "1.1"
-  },
-  {
-    "$type": "UpdateChecker.ModVersionData, UpdateChecker",
-    "modName": "Ghetto's Tactical Clothes",
-    "modVersion": "1.0"
-  }
-]
+{
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.String, mscorlib]], mscorlib",
+  "Ghetto's Firearms": "1.2",
+  "Ghetto's Firearm Framework v2": "1.2",
+  "Ghetto's John Wick Pack": "1.1",
+  "Ghetto's Tactical Clothes": "1.0"
+}
