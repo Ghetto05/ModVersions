@@ -8,11 +8,13 @@
     "$type": "UpdateChecker.ModVersionData, UpdateChecker",
     "modName": "Ghetto's Firearm Framework v2",
     "modVersion": "1.2"
-  }{
+  },
+  {
     "$type": "UpdateChecker.ModVersionData, UpdateChecker",
     "modName": "Ghetto's John Wick Pack",
     "modVersion": "1.1"
-  }{
+  },
+  {
     "$type": "UpdateChecker.ModVersionData, UpdateChecker",
     "modName": "Ghetto's Tactical Clothes",
     "modVersion": "1.0"
